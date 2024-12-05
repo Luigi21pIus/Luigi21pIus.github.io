@@ -22,11 +22,11 @@ body{
     margin: 0;
     background-color: #222222;
 }
-@media (min-width: 600px) { 
+@media (min-width: 400px) { 
     body { background-color: #222222); 
     } 
   } 
-  @media (min-width: 768px) {  
+  @media (min-width: 800px) {  
       body { background-color: #222222; 
       } 
   }
