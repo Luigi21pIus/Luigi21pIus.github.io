@@ -107,7 +107,6 @@ h1{
     z-index: 600;
     position: sticky;
     border-bottom: solid 5px #f8f8f8;
-    @media(min-width: 600px)
 }
 
 .menu a {
